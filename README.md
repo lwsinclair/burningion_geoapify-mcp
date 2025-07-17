@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-burningion-geoapify-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-burningion-geoapify-mcp)
+
 # Geoapify MCP Server
 
 Convert addresses into GPS coordinates for mapping, and optionally create an image of those coordinates using the Geoapify server.
